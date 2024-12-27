@@ -1,5 +1,3 @@
-# About-Me
-
 ## 🙋🏻‍♀️ Hi, I'm Chelsea!
 
 - Information Systems student at UNSW, Sydney, Australia
