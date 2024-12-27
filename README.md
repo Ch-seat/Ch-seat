@@ -1,13 +1,10 @@
 # About-Me
 
-## 🙋🏻‍♀️ Introducing Myself
+## 🙋🏻‍♀️ Hi, I'm Chelsea!
 
-Hello, I'm Chelsea. Information Systems student and an aspiring Data Analyst.
+- Information Systems student at UNSW, Sydney, Australia
+- Aspiring Data Analyst with an interest in database management systems
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
 
 ### 📚 Projects
 
