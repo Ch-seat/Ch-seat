@@ -1,8 +1,6 @@
 ## 🙋🏻‍♀️ Hi, I'm Chelsea!
 
 - Information Systems student at UNSW, Sydney, Australia
-- Aspiring Data Analyst with an interest in database management systems
-
 
 ### 📚 Projects
 
